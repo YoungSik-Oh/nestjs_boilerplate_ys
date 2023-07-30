@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 # nestjs_boilerplate_ys
+
 ys_nestjs 보일러 플레이트
 
 토이 프로젝트 시 필요한 라이브러리와 기본적인 CRUD를 미리 제작
-=======
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -77,4 +77,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
->>>>>>> 2000767 (nestjs boilerplate_project init)
